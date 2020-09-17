@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Offsets -->
+    <dimen name="offset_min">@dimen/_2sdp</dimen>
+    <dimen name="offset_tiny">@dimen/_4sdp</dimen>
+    <dimen name="offset_small">@dimen/_8sdp</dimen>
+    <dimen name="offset_medium">@dimen/_12sdp</dimen>
+    <dimen name="offset_regular">@dimen/_16sdp</dimen>
+    <dimen name="offset_average">@dimen/_20sdp</dimen>
+    <dimen name="offset_large">@dimen/_24sdp</dimen>
+    <dimen name="offset_huge">@dimen/_32sdp</dimen>
+    <dimen name="offset_big">@dimen/_46sdp</dimen>
+    <dimen name="offset_gigantic">@dimen/_56sdp</dimen>
+
+    <!-- Text Sizes -->
+    <dimen name="text_size_8">@dimen/_6ssp</dimen>
+    <dimen name="text_size_10">@dimen/_8ssp</dimen>
+    <dimen name="text_size_12">@dimen/_10ssp</dimen>
+    <dimen name="text_size_13">@dimen/_12ssp</dimen>
+    <dimen name="text_size_14">@dimen/_12ssp</dimen>
+    <dimen name="text_size_16">@dimen/_14ssp</dimen>
+    <dimen name="text_size_18">@dimen/_16ssp</dimen>
+    <dimen name="text_size_20">@dimen/_18ssp</dimen>
+    <dimen name="text_size_24">@dimen/_20ssp</dimen>
+    <dimen name="paragraph_icon_size">@dimen/_60sdp</dimen>
+
+    <!--  Default screen margins, per the Android Design guidelines.  -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="appbar_padding">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+</resources>
